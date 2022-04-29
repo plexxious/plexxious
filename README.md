@@ -3,6 +3,6 @@ Developer
 * Python
 * C/C++
 * Java
-* Linux
+* Linux Sysadmin
 
 Discord: pakt#4607
