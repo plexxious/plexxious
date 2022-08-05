@@ -1,8 +1,7 @@
 Developer
 
 * Python
-* C/C++
-* Java
+* Rust
 * Linux Sysadmin
 
 Discord: pakt#4607
