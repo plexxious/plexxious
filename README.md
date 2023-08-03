@@ -4,4 +4,4 @@ Developer
 * Rust
 * Linux Sysadmin
 
-Discord: pakt#4607
+Discord: thewarsawpakt
